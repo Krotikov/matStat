@@ -8,3 +8,4 @@
 *.out
 *.syntex.gz
 *.toc
+report/
